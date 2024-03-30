@@ -33,7 +33,7 @@ let menu = `
 ┊⭓ 𝘏𝘰𝘭𝘢 ➺ @${m.sender.split("@")[0]}
 ┊⭓ 𝘧𝘦𝘤𝘩𝘢 : ${week}, ${date} 
 ┊⭓ 𝘵𝘪𝘦𝘮𝘱𝘰 𝘢𝘤𝘵𝘪𝘷𝘰 : ${uptime}
-
+   *NO ME MANDES PRIVADO,SOY UN BOT NO SEAS WEY ❤️*
 ★ 𝙈𝙀𝙉𝙐𝙎 ★
 ┊➺ 💎 .𝘮𝘦𝘯𝘶𝘧𝘧
 ┊➺ 💎 .𝘮𝘦𝘯𝘶𝘭𝘰𝘨𝘰
