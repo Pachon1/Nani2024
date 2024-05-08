@@ -170,8 +170,8 @@ let pesan = args.join` `
 let oi = `» ${lenguajeGB['smsAddB5']()} ${pesan}`
 let teks = `${lenguajeGB['smstagaa']()}\n\n${oi}\n\n`
 for (let mem of participants) {
-teks += `➥🌷 @${mem.id.split('@')[0]}\n`}
-teks += `🎀𝙉𝘼𝙉𝙄 𝘽𝙊𝙏 𝘿𝙊𝙈𝙄𝙉𝘼🎀`
+teks += `➥👺💰 @${mem.id.split('@')[0]}\n`}
+teks += `😈𝐙𝐞𝐥𝐢𝐤𝐚 𝐁𝐨𝐭😈`
 await conn.sendMessage(m.chat, { text: teks, mentions: participants.map(a => a.id) }, )    
 break
     
