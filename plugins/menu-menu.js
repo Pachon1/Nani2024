@@ -29,11 +29,21 @@ lugarFecha.locale('es', formatoFecha)
 const horarioFecha = lugarFecha.format('dddd,DD [de] MMMM [del] YYYY│[Hora:]HH:mm A').replace(/^\w/, (c) => c.toUpperCase())
 
 let menu = `
-╭─😈𝐙𝐞𝐥𝐢𝐤𝐚 𝐁𝐨𝐭😈─✧
-┊⭓ 𝘏𝘰𝘭𝘢 ➺ @${m.sender.split("@")[0]}
-┊⭓ 𝘧𝘦𝘤𝘩𝘢 : ${week}, ${date} 
-┊⭓ 𝘵𝘪𝘦𝘮𝘱𝘰 𝘢𝘤𝘵𝘪𝘷𝘰 : ${uptime}
-   *NO ME MANDES PRIVADO,SOY UN BOT NO SEAS WEY ❤️*
+╭═══〘 ✯✯✯✯✯✯✯✯✯ 〙══╮
+║◉— *💖𝙎𝙃𝙐𝙋𝙀𝙍 𝙉𝘼𝙉𝙄 𝘽𝙊𝙏💖* —◉
+║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║
+║➤ *𝗛ola, ${taguser}*
+║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║
+║➤ *Owner:* PACHON EL MEJOR
+║➤ *Numero:* wa.me/525649625643
+║➤ *Bot ofc:* wa.me/525649625643
+║➤ *Bot ofc 2:* wa.me/525649625643
+║➤ *PayPal:*https://www.paypal.me/pachonff
+║➤ *Fecha:* ${date}
+║➤ *Tiempo activo:* ${uptime}
+║➤ *Usuarios:* ${rtotalreg}
+╰═══╡✯✯✯✯✯✯✯✯✯╞═══╯
+
 ★ 𝙈𝙀𝙉𝙐𝙎 ★
 ┊➺ 💎 .𝘮𝘦𝘯𝘶𝘧𝘧
 ┊➺ 💎 .𝘮𝘦𝘯𝘶𝘭𝘰𝘨𝘰
