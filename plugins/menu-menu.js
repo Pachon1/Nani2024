@@ -34,7 +34,7 @@ let menu = `
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║
 ║➤ *𝗛ola, ${taguser}*
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║
-║➤ *Owner:* PACHON EL MEJOR
+║➤ *Owner:* 🔥PACHON EL MEJOR🔥
 ║➤ *Numero:* wa.me/525649625643
 ║➤ *Bot ofc:* wa.me/525649625643
 ║➤ *Bot ofc 2:* wa.me/525649625643
